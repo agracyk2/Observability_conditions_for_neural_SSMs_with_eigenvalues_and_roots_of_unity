@@ -1,48 +1,19 @@
-Key references:
+1. Yang Song, Prafulla Dhariwal, Mark Chen, and Ilya Sutskever.  
+   **Consistency Models**.  
+   *arXiv preprint*, 2023.  
+   Available at: [https://arxiv.org/abs/2303.01469](https://arxiv.org/abs/2303.01469)
 
+2. Bahador Bahmani, Somdatta Goswami, Ioannis G. Kevrekidis, and Michael D. Shields.  
+   **A Resolution Independent Neural Operator**.  
+   *arXiv preprint*, 2024.  
+   Available at: [https://arxiv.org/abs/2407.13010](https://arxiv.org/abs/2407.13010)
 
-@misc{song2023consistencymodels,
-      title={Consistency Models}, 
-      author={Yang Song and Prafulla Dhariwal and Mark Chen and Ilya Sutskever},
-      year={2023},
-      eprint={2303.01469},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2303.01469}, 
-}
+3. Zheyuan Hu, Nazanin Ahmadi Daryakenari, Qianli Shen, Kenji Kawaguchi, and George Em Karniadakis.  
+   **State-space models are accurate and efficient neural operators for dynamical systems**.  
+   *arXiv preprint*, 2024.  
+   Available at: [https://arxiv.org/abs/2409.03231](https://arxiv.org/abs/2409.03231)
 
-
-
-@misc{bahmani2024resolutionindependentneuraloperator,
-      title={A Resolution Independent Neural Operator}, 
-      author={Bahador Bahmani and Somdatta Goswami and Ioannis G. Kevrekidis and Michael D. Shields},
-      year={2024},
-      eprint={2407.13010},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2407.13010}, 
-}
-
-
-
-@misc{hu2024statespacemodelsaccurateefficient,
-      title={State-space models are accurate and efficient neural operators for dynamical systems}, 
-      author={Zheyuan Hu and Nazanin Ahmadi Daryakenari and Qianli Shen and Kenji Kawaguchi and George Em Karniadakis},
-      year={2024},
-      eprint={2409.03231},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2409.03231}, 
-}
-
-
-
-@misc{gu2024mambalineartimesequencemodeling,
-      title={Mamba: Linear-Time Sequence Modeling with Selective State Spaces}, 
-      author={Albert Gu and Tri Dao},
-      year={2024},
-      eprint={2312.00752},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2312.00752}, 
-}
+4. Albert Gu and Tri Dao.  
+   **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**.  
+   *arXiv preprint*, 2024.  
+   Available at: [https://arxiv.org/abs/2312.00752](https://arxiv.org/abs/2312.00752)
