@@ -9,3 +9,39 @@ Key references:
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2303.01469}, 
 }
+
+
+
+@misc{bahmani2024resolutionindependentneuraloperator,
+      title={A Resolution Independent Neural Operator}, 
+      author={Bahador Bahmani and Somdatta Goswami and Ioannis G. Kevrekidis and Michael D. Shields},
+      year={2024},
+      eprint={2407.13010},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.13010}, 
+}
+
+
+
+@misc{hu2024statespacemodelsaccurateefficient,
+      title={State-space models are accurate and efficient neural operators for dynamical systems}, 
+      author={Zheyuan Hu and Nazanin Ahmadi Daryakenari and Qianli Shen and Kenji Kawaguchi and George Em Karniadakis},
+      year={2024},
+      eprint={2409.03231},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2409.03231}, 
+}
+
+
+
+@misc{gu2024mambalineartimesequencemodeling,
+      title={Mamba: Linear-Time Sequence Modeling with Selective State Spaces}, 
+      author={Albert Gu and Tri Dao},
+      year={2024},
+      eprint={2312.00752},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2312.00752}, 
+}
