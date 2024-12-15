@@ -1,0 +1,11 @@
+Key references:
+
+@misc{song2023consistencymodels,
+      title={Consistency Models}, 
+      author={Yang Song and Prafulla Dhariwal and Mark Chen and Ilya Sutskever},
+      year={2023},
+      eprint={2303.01469},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2303.01469}, 
+}
