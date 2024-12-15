@@ -1,19 +1,18 @@
-1. Yang Song, Prafulla Dhariwal, Mark Chen, and Ilya Sutskever.  
-   **Consistency Models**.  
-   *arXiv preprint*, 2023.  
-   Available at: [https://arxiv.org/abs/2303.01469](https://arxiv.org/abs/2303.01469)
+Key References
 
-2. Bahador Bahmani, Somdatta Goswami, Ioannis G. Kevrekidis, and Michael D. Shields.  
-   **A Resolution Independent Neural Operator**.  
-   *arXiv preprint*, 2024.  
-   Available at: [https://arxiv.org/abs/2407.13010](https://arxiv.org/abs/2407.13010)
 
-3. Zheyuan Hu, Nazanin Ahmadi Daryakenari, Qianli Shen, Kenji Kawaguchi, and George Em Karniadakis.  
-   **State-space models are accurate and efficient neural operators for dynamical systems**.  
-   *arXiv preprint*, 2024.  
-   Available at: [https://arxiv.org/abs/2409.03231](https://arxiv.org/abs/2409.03231)
+Song, Y., Dhariwal, P., Chen, M., & Sutskever, I. (2023).
+Consistency Models.
+https://arxiv.org/abs/2303.01469
 
-4. Albert Gu and Tri Dao.  
-   **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**.  
-   *arXiv preprint*, 2024.  
-   Available at: [https://arxiv.org/abs/2312.00752](https://arxiv.org/abs/2312.00752)
+Bahmani, B., Goswami, S., Kevrekidis, I. G., & Shields, M. D. (2024).
+A Resolution Independent Neural Operator.
+https://arxiv.org/abs/2407.13010
+
+Hu, Z., Ahmadi Daryakenari, N., Shen, Q., Kawaguchi, K., & Karniadakis, G. E. (2024).
+State-space models are accurate and efficient neural operators for dynamical systems.
+https://arxiv.org/abs/2409.03231
+
+Gu, A., & Dao, T. (2024).
+Mamba: Linear-Time Sequence Modeling with Selective State Spaces.
+https://arxiv.org/abs/2312.00752
