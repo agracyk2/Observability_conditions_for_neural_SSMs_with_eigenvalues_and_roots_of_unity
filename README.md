@@ -2,10 +2,11 @@
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/files/20263653/observability_github_image.pdf" width="800">
+<img src="https://github.com/user-attachments/assets/2db0c5d4-e056-4968-adea-41b01809054a" width="800">
 </div>
 
 
 This is the implementation of Observability conditions for neural state-space models with eigenvalues and their roots of unity.
 
 Code to be released upon acceptance.
+
