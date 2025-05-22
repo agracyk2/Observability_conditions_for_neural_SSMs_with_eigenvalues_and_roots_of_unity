@@ -10,3 +10,4 @@ This is the implementation of Observability conditions for neural state-space mo
 
 Code to be released upon acceptance.
 
+Alternatively, if you are highly interested in the code of this work, please reach out to me directly.
